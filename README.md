@@ -14,9 +14,16 @@ un tipo de rama auxiliar el sistema que se encarga de la gestión de las caracte
  + # Codereview(Revison de codigo)
 te permiten decidir si se notificará a todo el equipo o solo a un subconjunto de miembros del mismo cuando se solicite que éste realice una revisión
 + # bifurcación
+ Una bifurcación es una copia personal del repositorio de otro usuario que se aloja en tu cuenta. Las bifurcaciones permiten realizar cambios libremente en un proyecto sin que el repositorio ascendente original se vea afectado.
 + # block
+ Eliminar la posibilidad de un usuario de colaborar con los repositorios de una organización.
 + # check
+Una comprobación es un tipo de comprobación de estado en GitHub. 
 + # clean
+Un árbol de trabajo está limpio si se corresponde a la revisión a la que hace referencia la rama HEAD actual.
 + # clone
+Un clon es una copia de un repositorio que se encuentra en el equipo en lugar del servidor de un sitio web de algún otro lugar, o el hecho de hacer esa copia.
 + # clústeres
+ La capacidad de ejecutar los servicios GitHub Enterprise en varios nodos y equilibrar la carga de las solicitudes entre ellos.
 + # combinar
+Para combinar varias confirmaciones en una sola confirmación. También un comando de Git.
