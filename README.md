@@ -13,3 +13,10 @@ son la forma de contribuir a un proyecto grupal o de código abierto.
 un tipo de rama auxiliar el sistema que se encarga de la gestión de las características, historias de usuario o requisitos en la plataforma de control de versiones.
  + # Codereview(Revison de codigo)
 te permiten decidir si se notificará a todo el equipo o solo a un subconjunto de miembros del mismo cuando se solicite que éste realice una revisión
++ # bifurcación
++ # block
++ # check
++ # clean
++ # clone
++ # clústeres
++ # combinar
